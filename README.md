@@ -1,5 +1,5 @@
 ### Date created
-Include the date you created this project and README file.
+october 2020
 
 ### Project Title
 bikeshare project project3
