@@ -268,7 +268,7 @@ def main():
 
         while True:
             select_data = input("\nWhat information do you want to have?:""\n for time stats[ts]""\n for station_stats[ss]"
-			"\n for trip_duration_stats[tds]""\n for user_stats[us]""\n for raw_data[rd]""\n for restart or exit[re]")
+			"\n for trip_duration_stats[tds]""\n for user_stats[us]""\n for raw_data[rd]""\n for restart or exit[re]""\n for show cities[sc]")
             if select_data == 'ts':
                 time_stats(df)
             elif select_data == 'ss':
@@ -281,6 +281,8 @@ def main():
                 raw_data(df)
             elif select_data == 're':
                 break
+            elif select_data == 'sc':
+                print('\nWashginton, New York City and Chicago\n)
             else:
                 print("\nThere is no action like that! Choose again please.")
         
