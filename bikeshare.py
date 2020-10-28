@@ -290,6 +290,7 @@ def main():
         restart = input('\nWould you like to restart? Enter yes or no.\n')
         if restart.lower() != 'yes':
             print("\nYour select is not Yes so Good Bye!")
+            print("\nCreated by Ridvan Yaman\n")
             break
 
 
