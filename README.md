@@ -24,3 +24,9 @@ https://www.w3schools.com/python/
 https://stackoverflow.com
 https://pandas.pydata.org
 https://www.geeksforgeeks.org/python-programming-language/?ref=leftbar
+
+### Requirements
+This program was written in Python (version 3.7.1) and relies on the following libraries:
+
+pandas==0.23.4 numpy==1.15.4
+
