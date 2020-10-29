@@ -5,7 +5,7 @@
 Bikeshare Python Project
 
 ### Description
-udacity project
+In this project, some information was obtained using data on the bike sharing systems of Chicago, New York City and Washington City.Analysis of bicycle sharing system in the city of Chicago, NYC and Washington.
 
 ### Files used
 Include the files used
