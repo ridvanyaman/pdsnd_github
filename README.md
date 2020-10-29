@@ -2,7 +2,7 @@
 october 2020
 
 ### Project Title
-bikeshare project project3
+Bikeshare Python Project
 
 ### Description
 udacity project
